@@ -1,0 +1,4 @@
+project:
+  model: resnet101
+  dataset: cifar10
+  data_dir: /Users/kimseongchan/Desktop/github/image-classification-cifar-10/data
